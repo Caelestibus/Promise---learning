@@ -28,7 +28,7 @@ Communicate better about loading states, API calls, and error handling
 Think in terms of user experience: success/failure outcomes
 
 
-##🧠 What I Learned;
+### 🧠 What I Learned;
 
 Promises have two outcomes: resolve (success) and reject (failure)
 
