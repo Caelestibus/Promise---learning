@@ -4,7 +4,7 @@ As a Product Manager learning fullstack development, I'm diving into how **JavaS
 
 ---
 
-## 📜 What This Code Does
+###  📜 What This Code Does
 
 Creates a new Promise.
 
@@ -17,7 +17,7 @@ If failed (change to false), it rejects with "Error, it broke".
 .then() handles the success case by logging the result.
 
 
-##👩🏾‍💻 Why I Wrote This;
+### 👩🏾‍💻 Why I Wrote This;
 
 I'm learning how JavaScript handles asynchronous behavior using Promises. As a product manager, this helps me:
 
